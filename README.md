@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"></h5>
  <img src="https://github.com/marilenea/marilenea/raw/main/assets/header-github.gif" alt="Oi, eu sou a Marilene">
 
  <!--
