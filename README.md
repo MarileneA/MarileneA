@@ -1,7 +1,5 @@
 <p align="center">
-  
-<img src="https://github.com/marilenea/marilenea/raw/main/assets/header-github.gif" alt="Oi, eu sou a Marilene">
-
+ <img src="https://github.com/marilenea/marilenea/raw/main/assets/header-github.gif" alt="Oi, eu sou a Marilene">
 <!--
 How to make the bio gif ?
 💜 Thanks to [matyo91](https://github.com/matyo91)
@@ -10,7 +8,6 @@ Then i recorded my screen to gif on Mac with Quicktime  and save result to [asse
 This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
 Then i save result to [assets/github.gif](assets/github.gif)
 -->
-
 - 🌱Atualmente estou aprendendo **Linguagens Python, R, Machine Learning, SQL**
 
 - Me pergunte sobre **Tecnologia, Ciências de Dados e Carreira**
@@ -20,6 +17,8 @@ Then i save result to [assets/github.gif](assets/github.gif)
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/marilene-sousa-9212141a2/](https://www.linkedin.com/in/marilene-sousa-9212141a2/)
 
 - ⚡ Curiosidades sobre mim **Amo assistir filmes e séries**
+
+  -👩🏽‍ Formação: Administração de Empresas e Pedagogia, atualmente estou em transição de carreira para área de Data Science.
 
 
 <h3 align="left">Algumas Linguagens e Ferramentas que eu utilizo:</h3>
