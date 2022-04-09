@@ -1,6 +1,6 @@
 <p align="center">
   
-<img src="https://github.com/marilenea/marilenea/raw/main/assets/header-github.gif" alt="Oi, eu sou a Marilene">
+<img src="https://github.com/marilenea/marilenea/raw/main/assets/Titulo_GitHub.gif" alt="Oi, eu sou a Marilene">
 
 <!--
 How to make the bio gif ?
