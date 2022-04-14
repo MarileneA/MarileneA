@@ -12,7 +12,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
  
 - 🌱Atualmente estou aprendendo **Linguagens Python, R, Machine Learning, SQL**
 
-- Me pergunte sobre **Tecnologia, Ciências de Dados e Carreira**
+- Me pergunte sobre **Ciências de Dados: Python, R, Machine Learning e Power BI**
 
 - 📫 Como me encontrar **marilene.alvess@gmail.com**
 
