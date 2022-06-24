@@ -22,7 +22,7 @@ Sou uma Cientista de Dados com foco no desenvolvimento de soluções de ponta a 
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>]( https://www.linkedin.com/in/marilenesousa/)
 
-# Data Science Projects
+# Projetos de Ciencias de Dados
 
 **Rossmann Stores Sales Prediction**
 
