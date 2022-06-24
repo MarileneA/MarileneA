@@ -26,7 +26,7 @@ Sou uma Cientista de Dados com foco no desenvolvimento de soluções de ponta a 
 
 **Rossmann Stores Sales Prediction**
 
-https://github.com/MarileneA/Rossmann_Prediction.git
+https://github.com/MarileneA/Rossmann_Store_Sales.git
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/87071331/175528964-e39311b6-59a6-41a2-a523-cb0cc98dbe95.jpg" width="700px" />
