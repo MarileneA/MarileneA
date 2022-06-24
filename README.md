@@ -28,5 +28,15 @@ Sou uma Cientista de Dados com foco no desenvolvimento de soluções de ponta a 
 
 https://github.com/MarileneA/Rossmann_Prediction.git
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/87071331/175528964-e39311b6-59a6-41a2-a523-cb0cc98dbe95.jpg" width="700px" />
+</div>
+
+
+O CFO das Drogarias Rossmann solicitou uma previsão de vendas de cada loja para as próximas seis semanas, a fim de definir um orçamento para a reforma das lojas. A previsão atual não foi satisfatória, pois havia várias inconsistências. Nesse contexto, desenvolvi um modelo de regressão de aprendizado de máquina para fornecer uma previsão mais precisa das vendas da loja.
+
+O modelo fornece previsões diárias que podem ser acessadas no Telegram com um erro (MAPE) de 10%.
+
+
   
 
