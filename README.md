@@ -6,7 +6,7 @@ Bem-vindos ao meu portfólio de projetos.
 O Objetivo desse projeto é demonstrar as minhas habilidades em resolver problemas de negócio usando ciência de dados.
 
 
-# Data Science
+# Ciências de Dados
 
 Sou uma Cientista de Dados com foco no desenvolvimento de soluções de ponta a ponta para problemas de negócios através da coleta, processamento de dados e implementação de modelos de machine learning para melhorar os resultados do negócio.
 
@@ -18,7 +18,7 @@ Sou uma Cientista de Dados com foco no desenvolvimento de soluções de ponta a 
 - **Modelos de Machine Learning:** Regression, Classification, Clustering.
 - **Machine Learning Deployment:** Heroku
 
-# Contacts
+# Contatos
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>]( https://www.linkedin.com/in/marilenesousa/)
 
