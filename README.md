@@ -10,11 +10,11 @@ O Objetivo desse projeto é demonstrar as minhas habilidades em resolver problem
 
 Sou uma Cientista de Dados com foco no desenvolvimento de soluções de ponta a ponta para problemas de negócios através da coleta, processamento de dados e implementação de modelos de machine learning para melhorar os resultados do negócio.
 
-**Ferramentas de analíticas:**
+**Ferramentas analíticas:**
 - **Coleta de dados:** SQL, MySQL, Postgres.
 - **Processamento e Analise de dados:** Pyhton (Pandas, Numpy, Seaborn, Pyplot, Matplotlib, Scikit-learn).
-- **Development:** Git, Scrum.
-- **Visualização de dados:** Power BI, Metabase.
+- **Development:** Git
+- **Visualização de dados:** Power BI.
 - **Modelos de Machine Learning:** Regression, Classification, Clustering.
 - **Machine Learning Deployment:** Heroku
 
