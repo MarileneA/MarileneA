@@ -1,9 +1,9 @@
 
-# <center>Portfólio de Projetos de Ciências de Dados</center>
+# <center>Portfólio de Projetos</center>
 
 Bem-vindos ao meu portfólio de projetos.
 
-O Objetivo desse projeto é demonstrar as minhas habilidades em resolver problemas de negócio usando ciência de dados.
+O Objetivo desse projeto é demonstrar as minhas habilidades em resolver problemas de negócio usando dados.
 
 
 # Ciências de Dados
@@ -22,6 +22,7 @@ Sou uma Cientista de Dados com foco no desenvolvimento de soluções de ponta a 
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>]( https://www.linkedin.com/in/marilenesousa/)
 
+
 # Projetos de Ciencias de Dados
 
 **Rossmann Stores Sales Prediction**
@@ -38,5 +39,10 @@ O CFO das Drogarias Rossmann solicitou uma previsão de vendas de cada loja para
 O modelo fornece previsões diárias que podem ser acessadas no Telegram com um erro (MAPE) de 10%.
 
 
-  
+  # Análise de Dados
+https://github.com/MarileneA/Analise_de_dados
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/87071331/180317714-87220091-f8ef-452a-a282-3913ae6780d6.png" width="300px" />
+</div>
 
