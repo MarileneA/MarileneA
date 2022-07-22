@@ -1,14 +1,10 @@
 
 # <center>Portfólio de Projetos</center>
 
-Bem-vindos ao meu portfólio de projetos.
+Bem-vindos!
 
-O Objetivo desse projeto é demonstrar as minhas habilidades em resolver problemas de negócio usando dados.
-
-
-# Ciências de Dados
-
-Sou uma Cientista de Dados com foco no desenvolvimento de soluções de ponta a ponta para problemas de negócios através da coleta, processamento de dados e implementação de modelos de machine learning para melhorar os resultados do negócio.
+Sou uma profissional da área de dados com foco no desenvolvimento de soluções de ponta a ponta para problemas de negócios através da coleta, processamento de dados e implementação de modelos de machine learning para melhorar os resultados do negócio.
+ 
 
 **Ferramentas analíticas:**
 - **Coleta de dados:** SQL, MySQL, Postgres.
@@ -22,27 +18,19 @@ Sou uma Cientista de Dados com foco no desenvolvimento de soluções de ponta a 
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>]( https://www.linkedin.com/in/marilenesousa/)
 
+## **Projetos:**
 
-# Projetos de Ciencias de Dados
+- ### **Análises Exploratórias de Dados**
+  - ([Analise de dados Airbnb](https://github.com/MarileneA/Analise_de_dados/blob/main/airbnb_analise_de_dados.ipynb)):: Análise exploratória dos dados do Airbnb para a cidade Rio de Janiero, sendo possível adquirir informações importantes a partir dos dados brutos.
+ 
+  
+  _Ferramentas: Pandas, matplotlib, seaborn_
 
-**Rossmann Stores Sales Prediction**
+- ### **Machine Learning**
 
-https://github.com/MarileneA/rossmann_predict_sales
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/87071331/175528964-e39311b6-59a6-41a2-a523-cb0cc98dbe95.jpg" width="700px" />
-</div>
-
-
-O CFO das Drogarias Rossmann solicitou uma previsão de vendas de cada loja para as próximas seis semanas, a fim de definir um orçamento para a reforma das lojas. A previsão atual não foi satisfatória, pois havia várias inconsistências. Nesse contexto, desenvolvi um modelo de regressão de aprendizado de máquina para fornecer uma previsão mais precisa das vendas da loja.
-
-O modelo fornece previsões diárias que podem ser acessadas no Telegram com um erro (MAPE) de 10%.
-
-
-  # Análise de Dados
-https://github.com/MarileneA/Analise_de_dados
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/87071331/180317714-87220091-f8ef-452a-a282-3913ae6780d6.png" width="300px" />
-</div>
+  - ([Previsão de vendas Rossmann](https://github.com/MarileneA/rossmann_predict_sales)): Projeto _end-to-end_ desenvolvido para prever o as vendas de uma loja nas próximas 6 semanas
+  
+  _Ferramentas: scikit-learn, statsmodels, xgboost, catboost, pandas, numpy, matplotlib, seaborn_
+  
+ 
 
