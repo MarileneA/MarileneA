@@ -21,7 +21,7 @@ Sou uma profissional da área de dados com foco no desenvolvimento de soluções
 ## **Projetos:**
 
 - ### **Análises Exploratórias de Dados**
-  - ([Analise de dados Airbnb](https://github.com/MarileneA/Analise_de_dados/blob/main/airbnb_analise_de_dados.ipynb)):: Análise exploratória dos dados do Airbnb para a cidade Rio de Janiero, sendo possível adquirir informações importantes a partir dos dados brutos.
+  - ([Analise de dados Airbnb](https://github.com/MarileneA/Analise_de_dados/blob/main/airbnb_analise_de_dados.ipynb)): Análise exploratória dos dados do Airbnb para a cidade Rio de Janiero, sendo possível adquirir informações importantes a partir dos dados brutos.
  
   
   _Ferramentas: Pandas, matplotlib, seaborn_
@@ -30,7 +30,8 @@ Sou uma profissional da área de dados com foco no desenvolvimento de soluções
 
   - ([Previsão de vendas Rossmann](https://github.com/MarileneA/rossmann_predict_sales)): Projeto _end-to-end_ desenvolvido para prever o as vendas de uma loja nas próximas 6 semanas
   
-  _Ferramentas: scikit-learn, statsmodels, xgboost, catboost, pandas, numpy, matplotlib, seaborn_
-  
  
+ - ([Projeto de clusterização]( https://github.com/MarileneA/Customer_cluster)): Projeto _end-to-end_ desenvolvido para formar cluster de clientes para uma loja online.
+
+  _Ferramentas: scikit-learn, statsmodels, xgboost, catboost, pandas, numpy, matplotlib, seaborn_
 
