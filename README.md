@@ -31,7 +31,7 @@ Sou uma profissional da área de dados com foco no desenvolvimento de soluções
   - ([Previsão de vendas Rossmann](https://github.com/MarileneA/rossmann_predict_sales)): Projeto _end-to-end_ desenvolvido para prever o as vendas de uma loja nas próximas 6 semanas
   
  
- - ([Projeto de clusterização]( https://github.com/MarileneA/Customer_cluster)): Projeto _end-to-end_ desenvolvido para formar cluster de clientes para uma loja online.
+  - ([Projeto de clusterização]( https://github.com/MarileneA/Customer_cluster)): Projeto _end-to-end_ desenvolvido para formar cluster de clientes para uma loja online.
 
   _Ferramentas: scikit-learn, statsmodels, xgboost, catboost, pandas, numpy, matplotlib, seaborn_
 
