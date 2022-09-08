@@ -33,5 +33,7 @@ Sou uma profissional da área de dados com foco no desenvolvimento de soluções
  
   - ([Projeto de clusterização]( https://github.com/MarileneA/Customer_cluster)): Projeto _end-to-end_ desenvolvido para formar cluster de clientes para uma loja online.
 
-  _Ferramentas: scikit-learn, statsmodels, xgboost, catboost, pandas, numpy, matplotlib, seaborn_
+  - ([Projeto de classificação]( https://github.com/MarileneA/airbnb_predict_first_booking-)): Projeto _end-to-end_ desenvolvido com o objetivo de prever se o usuário realizará um agendamento de acomodação no Airbnb, através dos dados de navegação.
+
+  _Ferramentas: rede neural, scikit-learn, statsmodels, xgboost, catboost, pandas, numpy, matplotlib, seaborn_
 
