@@ -26,14 +26,16 @@ Sou uma profissional da área de dados com foco no desenvolvimento de soluções
   
   _Ferramentas: Pandas, matplotlib, seaborn_
 
-- ### **Machine Learning**
+- ## Data Science Projects:
 
-  - ([Projeto de regressão](https://github.com/MarileneA/rossmann_predict_sales)): Previsão de vendas para uma rede de lojas nas próximas 6 semanas
+  - ([Projeto de regressão - Rossmann Sales](https://github.com/MarileneA/rossmann_predict_sales)): Previsão de vendas para uma rede de lojas nas próximas 6 semanas
   
  
-  - ([Projeto de clusterização]( https://github.com/MarileneA/Customer_cluster)): Agrupamento de clientes de um ecommerce.
+  - ([Projeto de clusterização - Cluster Insiders]( https://github.com/MarileneA/Customer_cluster)): Agrupamento de clientes de um ecommerce.
 
-  - ([Projeto de classificação]( https://github.com/MarileneA/airbnb_predict_first_booking-)): Classificar usuários que irão realizar um agendamento de acomodação no Airbnb, através dos dados de navegação.
+  - ([Projeto de classificação - Cross Sell Health Insurance]( https://github.com/MarileneA/HealthInsurance)): Classificar usuários interessados em contratar um novo produto, seguros para automóveis.
+  
+   - ([Projeto de classificação - AirBNB]( https://github.com/MarileneA/airbnb_predict_first_booking-)): Classificar usuários que irão realizar um agendamento de acomodação no Airbnb, através dos dados de navegação.
 
-  _Ferramentas: rede neural, scikit-learn, statsmodels, xgboost, catboost, pandas, numpy, matplotlib, seaborn_
+  _Ferramentas: rede neural, scikit-learn, statsmodels, xgboost, catboost, pandas, numpy, matplotlib, seaborn_, SQL, API, Flask
 
