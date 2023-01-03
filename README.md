@@ -33,8 +33,11 @@ A empresa All in One Place é uma empresa de outlet multimarcas que comercializa
 ## [Cross Sell Health Insurance]( https://github.com/MarileneA/HealthInsurance)
 
 A Insurance All é uma seguradora de saúde e sua equipe de produtos está analisando a possibilidade de oferecer um novo produto, seguro de automóvel, para seus clientes de planos de saúde. Semelhante ao seu seguro saúde, os clientes deste novo plano de seguro teriam que pagar um plano anual para serem segurados pela Seguros Todos em caso de eventual acidente ou dano automobilístico. Neste projeto o objetivo é **desenvolver um algoritmo de Machine Learning que classifica os clientes interessados** possibilitando uma abordagem mais assertiva do time de vendas.
+
+## [ENEM_2017](https://github.com/MarileneA/analise_enem)
+O Obejtivo nesse projeto é conhecer o perfil socioeconômico dos candidatos e entender a relação as notas.
   
-## [AirBNB]( https://github.com/MarileneA/airbnb_predict_first_booking-) Em construção 🚧 
+## [AirBNB]( https://github.com/MarileneA/airbnb_predict_first_booking-)
 Neste projeto, o desafio é criar uma solução para prever em qual país um novo usuário fará sua primeira reserva.
 
   _Ferramentas: rede neural, scikit-learn, statsmodels, xgboost, catboost, pandas, numpy, matplotlib, seaborn_, SQL, API, Flask
