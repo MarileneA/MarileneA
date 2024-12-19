@@ -3,7 +3,12 @@
 
 Bem-vindos!
 
-Sou uma profissional da área de dados com foco no desenvolvimento de soluções de ponta a ponta para problemas de negócios através da coleta, processamento de dados e implementação de modelos de machine learning para melhorar os resultados do negócio.
+Pós-graduada em Ciência de Dados e Inteligência Artificial pela PUCRS, com 3 anos de experiência na área de dados. Minha trajetória envolve projetos de ponta a ponta, aplicando conhecimentos sólidos em análise de dados, machine learning e visualização, com uso intensivo de Python e SQL.
+
+Atualmente, sou Analista de BI, onde utilizo Microsoft Fabric e Power BI para desenvolver soluções integradas que transformam dados em insights estratégicos. Tenho experiência em criação de dashboards interativos e atraentes, utilizando técnicas avançadas de DAX para cálculos e Linguagem M para transformação de dados. Além disso, possuo habilidades no design e criação de layouts visuais que facilitam a interpretação dos dados para diferentes públicos. Em constante contato com stakeholders, realizo o levantamento de requisitos e o alinhamento de expectativas, garantindo que cada projeto entregue resultados que atendam diretamente às necessidades de negócio.
+
+Combinando experiência prática e formação avançada, estou sempre em busca de aprimorar minhas habilidades e encontrar novas formas de maximizar resultados com soluções analíticas de alto impacto.
+
  
 
 **Ferramentas**
